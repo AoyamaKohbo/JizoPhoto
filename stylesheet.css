@@ -40,7 +40,7 @@ li {
 }
 
 .contents {
-  height: 500px;
+  height: 400px;
   margin-top: 20px;
 }
 
@@ -59,7 +59,7 @@ li {
 .contents-item p {
   font-size: 20px;
   margin-top: 10px;
-  width: 200px;
+  width: 600px;
 }
 
 .contact-form {
